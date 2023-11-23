@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kalliegarzon/Desktop/ASCIIRender/ASCIIRender.csproj",
+      "projectUniqueName": "/Users/kalliegarzon/Desktop/ASCIIRenderer/ASCIIRender.csproj",
       "projectName": "ASCIIRender",
-      "projectPath": "/Users/kalliegarzon/Desktop/ASCIIRender/ASCIIRender.csproj",
+      "projectPath": "/Users/kalliegarzon/Desktop/ASCIIRenderer/ASCIIRender.csproj",
       "packagesPath": "/Users/kalliegarzon/.nuget/packages/",
-      "outputPath": "/Users/kalliegarzon/Desktop/ASCIIRender/obj/",
+      "outputPath": "/Users/kalliegarzon/Desktop/ASCIIRenderer/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kalliegarzon/.nuget/NuGet/NuGet.Config"

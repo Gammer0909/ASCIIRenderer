@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hl3VAEBW4kfV6/EDpr/VIDhrAnjUM0uMCAEwXPwrUaFDngXabIMy0eKV4AVD9OHsgdriPrBa7HdnZSfJz/XhJQ==",
+  "dgSpecHash": "pwr+UR3z2WrG3Cu5ywBsHy7OoPeSyVwidqDOw5r+uKpXw6LWy4QxnpQAKb4csqP1ZnfTn8zYaNANNmvvI2Pfbw==",
   "success": true,
-  "projectFilePath": "/Users/kalliegarzon/Desktop/ASCIIRender/ASCIIRender.csproj",
+  "projectFilePath": "/Users/kalliegarzon/Desktop/ASCIIRenderer/ASCIIRender.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

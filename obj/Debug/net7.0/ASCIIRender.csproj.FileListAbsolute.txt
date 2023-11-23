@@ -1,0 +1,15 @@
+/Users/kalliegarzon/Desktop/ASCIIRenderer/bin/Debug/net7.0/ASCIIRender
+/Users/kalliegarzon/Desktop/ASCIIRenderer/bin/Debug/net7.0/ASCIIRender.deps.json
+/Users/kalliegarzon/Desktop/ASCIIRenderer/bin/Debug/net7.0/ASCIIRender.runtimeconfig.json
+/Users/kalliegarzon/Desktop/ASCIIRenderer/bin/Debug/net7.0/ASCIIRender.dll
+/Users/kalliegarzon/Desktop/ASCIIRenderer/bin/Debug/net7.0/ASCIIRender.pdb
+/Users/kalliegarzon/Desktop/ASCIIRenderer/obj/Debug/net7.0/ASCIIRender.csproj.AssemblyReference.cache
+/Users/kalliegarzon/Desktop/ASCIIRenderer/obj/Debug/net7.0/ASCIIRender.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kalliegarzon/Desktop/ASCIIRenderer/obj/Debug/net7.0/ASCIIRender.AssemblyInfoInputs.cache
+/Users/kalliegarzon/Desktop/ASCIIRenderer/obj/Debug/net7.0/ASCIIRender.AssemblyInfo.cs
+/Users/kalliegarzon/Desktop/ASCIIRenderer/obj/Debug/net7.0/ASCIIRender.csproj.CoreCompileInputs.cache
+/Users/kalliegarzon/Desktop/ASCIIRenderer/obj/Debug/net7.0/ASCIIRender.dll
+/Users/kalliegarzon/Desktop/ASCIIRenderer/obj/Debug/net7.0/refint/ASCIIRender.dll
+/Users/kalliegarzon/Desktop/ASCIIRenderer/obj/Debug/net7.0/ASCIIRender.pdb
+/Users/kalliegarzon/Desktop/ASCIIRenderer/obj/Debug/net7.0/ASCIIRender.genruntimeconfig.cache
+/Users/kalliegarzon/Desktop/ASCIIRenderer/obj/Debug/net7.0/ref/ASCIIRender.dll
