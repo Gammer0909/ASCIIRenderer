@@ -13,3 +13,9 @@
 /Users/kalliegarzon/Desktop/ASCIIRenderer/obj/Debug/net7.0/ASCIIRender.pdb
 /Users/kalliegarzon/Desktop/ASCIIRenderer/obj/Debug/net7.0/ASCIIRender.genruntimeconfig.cache
 /Users/kalliegarzon/Desktop/ASCIIRenderer/obj/Debug/net7.0/ref/ASCIIRender.dll
+/Users/kalliegarzon/Desktop/ASCIIRenderer/bin/Debug/net7.0/SkiaSharp.dll
+/Users/kalliegarzon/Desktop/ASCIIRenderer/bin/Debug/net7.0/runtimes/osx/native/libSkiaSharp.dylib
+/Users/kalliegarzon/Desktop/ASCIIRenderer/bin/Debug/net7.0/runtimes/win-arm64/native/libSkiaSharp.dll
+/Users/kalliegarzon/Desktop/ASCIIRenderer/bin/Debug/net7.0/runtimes/win-x64/native/libSkiaSharp.dll
+/Users/kalliegarzon/Desktop/ASCIIRenderer/bin/Debug/net7.0/runtimes/win-x86/native/libSkiaSharp.dll
+/Users/kalliegarzon/Desktop/ASCIIRenderer/obj/Debug/net7.0/ASCIIRender.csproj.CopyComplete
