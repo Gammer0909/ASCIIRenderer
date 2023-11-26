@@ -21,7 +21,7 @@ class Program {
         var renderer = new Renderer();
 
         // Convert the image to ASCII
-        var asciiImage = renderer.ConvertToASCII(image, 1, true);
+        var asciiImage = renderer.ConvertToASCII(image, true);
 
         Console.WriteLine($"Width: {asciiImage.width} Height: {asciiImage.height}");
 
@@ -31,7 +31,7 @@ class Program {
         // Wait for a key press
         Console.ReadKey(false);
 
-        var smallIm = renderer.ConvertToASCII(image, 4, true);
+        var smallIm = renderer.ConvertAndScaleAscii(image, 4, true);
 
         Console.WriteLine($"Width: {smallIm.width} Height: {smallIm.height}");
 
